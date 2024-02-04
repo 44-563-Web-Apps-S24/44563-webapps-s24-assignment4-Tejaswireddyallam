@@ -12,7 +12,7 @@
 }
 .direction:hover{
     background-color:burlywood;
-    color: whitesmoke;
+    color: whitesmokeh;
 }
 .IRINA{
     color: blue;
@@ -40,4 +40,30 @@
 }
 .FEDOTIK{
     color:darkolivegreen;
+}
+table{
+    border-style: double;
+}
+th{
+    background-color: darkmagenta;
+    color: #f0f0f0;
+}
+th,td{
+    border:1px solid black;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    text-align: center;
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+tr:nth-child(even){
+    background-color:cornsilk;
+    color:darkblue;
+}
+tr:hover{
+    background-color: bisque;
 }
