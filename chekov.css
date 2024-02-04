@@ -1,0 +1,43 @@
+.speech {
+    font-size: 14px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+
+}
+.direction{
+    font-size: 14px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #f0f0f0;
+    color: black;
+}
+.direction:hover{
+    background-color:burlywood;
+    color: whitesmoke;
+}
+.IRINA{
+    color: blue;
+    
+}
+.TUZENBACH{
+    color:lightcoral;
+    
+}
+.KULIGIN{
+    color:green;
+ 
+}
+.CHEBUTIKIN{
+    color:darkred;
+   
+}
+.VERSHININ{
+    color:darkblue;
+   
+}
+.MASHA{
+    color:rgb(35, 7, 60);
+    
+}
+.FEDOTIK{
+    color:darkolivegreen;
+}
